@@ -8,7 +8,7 @@ textFull = False # Will send everything written in 'text.txt'
 
 #Server Joiner
 useTokenJoin = True
-inviteLink = '' # Only the last 6 digits of the invite link https://discord.gg/XXXXXX | Unless you are using email join then just the full URL
+inviteLink = 'tFtJF4' # Only the last 6 digits of the invite link https://discord.gg/XXXXXX | Unless you are using email join then just the full URL
 autojoinServer = False # Will auto join the inviteLink server if True
 useBrowser = 'Chrome' # Chrome | Firefox | Edge (windows only) | Set the browser used for joining the servers.
 joinSpeed = 3 # Changes how fast the bot will start the server joiner
